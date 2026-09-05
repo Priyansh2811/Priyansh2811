@@ -39,7 +39,13 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="Priyanshu's 3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  </picture>
+</div>
 </div>
 <p align="center">
   <picture>
