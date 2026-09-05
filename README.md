@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3E+Initializing+session...;It's me Priyanshu Nautiyal;%3E+status%3A+ready+to+build+" alt="Console Typing Priyanshu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%3E+Initializing+session...;It%27s+me+Priyanshu+Nautiyal;%3E+status%3A+ready+to+build+" alt="Console Typing Priyanshu" />
 </p>
 <p align="center">
   <img src="./ProfileCard.svg" alt="Terminal Profile" width="100%">
