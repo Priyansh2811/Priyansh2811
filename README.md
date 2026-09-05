@@ -5,7 +5,7 @@
   <img src="./ProfileCard.svg" alt="Terminal Profile" width="100%">
 </p>
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -41,9 +41,9 @@
 </p>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-    <img alt="Priyanshu's 3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%">
+    <img alt="Priyanshu's 3D Contribution Graph" src="./profile-3d-contrib/profile-night-green.svg" width="100%">
   </picture>
 </div>
 </div>
