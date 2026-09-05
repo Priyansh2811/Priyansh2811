@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: Priyansh2811
           outputs: |
-            dist/github-contribution-grid-snake.svg?snake_speed=100
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&snake_speed=100
+            dist/github-contribution-grid-snake.svg?speed=220ms
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&speed=220ms
 
       - name: Push snake svgs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
