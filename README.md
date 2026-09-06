@@ -5,7 +5,7 @@
   <img src="./ProfileCard.svg" alt="Terminal Profile" width="100%">
 </p>
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -39,14 +39,8 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-    <img alt="Priyanshu's 3D Contribution Graph" src="./profile-3d-contrib/profile-night-green.svg" width="100%">
-  </picture>
-</div>
-</div>
+
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyansh2811/Priyansh2811/output/github-contribution-grid-snake-dark.svg">
